@@ -1,6 +1,6 @@
 # Image Super Resolution Project
 
-This repository contains a deep learning project focused on image super-resolution (SR) techniques. The project implements and compares multiple neural network architectures for enhancing the resolution of images.
+This repository contains a deep learning project focused on image super-resolution (SR) techniques. The project implements and compares multiple neural network architectures for enhancing the resolution of images. Read the medium article [here](https://medium.com/@jainpranav635/image-super-resolution-enhancing-visual-quality-with-deep-learning-3fa9ae91051c).
 
 ## Overview
 
